@@ -1,6 +1,22 @@
 import time
 import random
 
+# from dataclasses import dataclass
+# @dataclass
+# class GameState:
+#     name: str
+#     purse: int
+#     wins: int
+#     losses: int
+#     cashier_name: str
+#     dealer_name: str
+#
+# state = GameState('bob', 0, 0, 0, 'lisa', 'jim')
+# print(state)
+# print(state.losses)
+# state.losses = 3
+# print(state.losses)
+
 npc_name = ["Anlow", "Arando", "Bram", "Cale", "Dalkon", "Daylen", "Dodd",
             "Dungarth", "Dyrk", "Eandro", "Falken", "Feck", "Fenton",
             "Gryphero", "Hagar", "Jeras", "Krynt", "Lavant", "Leyten",
